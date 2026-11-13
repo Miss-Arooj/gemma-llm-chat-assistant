@@ -51,3 +51,21 @@ The notebook output includes a sample response and a recorded generation time of
 - The chatbot's response quality depends on the Gemma model's capabilities and input prompt quality.
 - Performance and response generation speed may vary depending on available system resources.
 - Future improvements could include conversation history, context retention, and enhanced response handling.
+
+## Test Cases
+
+### 1. Creative Thinking
+
+<video src="./test_cases/Creative_Thinking.mov" controls width="100%"></video>
+
+### 2. Instruction Following
+
+<video src="./test_cases/Instruction_Following.mov" controls width="100%"></video>
+
+### 3. Logical Reasoning
+
+<video src="./test_cases/Logical_Reasoning.mov" controls width="100%"></video>
+
+### 4. Memory Test
+
+<video src="./test_cases/Memory_Test.mov" controls width="100%"></video>
