@@ -54,9 +54,8 @@ The notebook output includes a sample response and a recorded generation time of
 
 ## Test Cases
 
-### 1. Creative Thinking
-
-<video src="./test_cases/Creative_Thinking.mov" controls width="100%"></video>
+### Creative Thinking
+![Watch Creative Thinking](./test_cases/Creative_Thinking.mov)
 
 ### 2. Instruction Following
 
