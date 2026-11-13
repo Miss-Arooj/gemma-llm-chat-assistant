@@ -57,9 +57,10 @@ The notebook output includes a sample response and a recorded generation time of
 ### Creative Thinking
 [Watch Creative Thinking](./test_cases/Creative_Thinking.mov)
 
+
 ### 2. Instruction Following
 
-<video src="./test_cases/Instruction_Following.mov" controls width="100%"></video>
+[<video src="./test_cases/Instruction_Following.mov" controls width="100%"></video>](https://github.com/user-attachments/assets/e40cf19f-d322-4e62-917d-4739939f650d)
 
 ### 3. Logical Reasoning
 
@@ -67,10 +68,4 @@ The notebook output includes a sample response and a recorded generation time of
 
 ### 4. Memory Test
 
-<video src="./test_cases/Memory_Test.mov" controls width="100%"></video>
-
-
-
-https://github.com/user-attachments/assets/cca84ec7-e245-4eae-9deb-797cfc4906a7
-
-
+[<video src="./test_cases/Memory_Test.mov" controls width="100%"></video>](https://github.com/user-attachments/assets/5e2bf5ff-87ba-45d3-ae8c-afe155d6a572)
