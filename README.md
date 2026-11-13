@@ -18,7 +18,7 @@ Python, PyTorch, Hugging Face Transformers, gemma-4-E2B-it, TextIteratorStreamer
 - `notebooks/gemma-llm-chat-assistant.ipynb` — original project notebook or application entry point.
 - `requirements.txt` — Python dependencies.
 - `.gitignore` — excludes local environments, secrets, datasets, and model artifacts.
-- `screenshots/` — spaces for project documentation and genuine screenshots.
+- `test_cases/` — Different domain related prompts testing videos.
 
 ## Setup
 
