@@ -57,6 +57,15 @@ The notebook output includes a sample response and a recorded generation time of
 ### General Conversation
 https://github.com/user-attachments/assets/0600edd5-8411-4551-9cc8-17a5a60f8e96
 
+### Coding Knowledge
+https://github.com/user-attachments/assets/3c9c3514-ec04-48cb-9e72-8732c2c43efc
+
+### Knowledge and Explanation
+https://github.com/user-attachments/assets/88d72753-58df-4e7d-be5a-7049a8b3531c
+
+### Challenging Questions
+https://github.com/user-attachments/assets/adf8485d-9886-489a-98db-9104b0f533c2
+
 ### 1. Creative Thinking
 https://github.com/user-attachments/assets/a76852f7-1014-4372-89cc-1dc52718e4ea
 
