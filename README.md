@@ -63,8 +63,14 @@ The notebook output includes a sample response and a recorded generation time of
 
 ### 3. Logical Reasoning
 
-<video src="./test_cases/Logical_Reasoning.mov" controls width="100%"></video>
+[<video src="./test_cases/Logical_Reasoning.mov" controls width="100%"></video>](https://github.com/user-attachments/assets/cca84ec7-e245-4eae-9deb-797cfc4906a7)
 
 ### 4. Memory Test
 
 <video src="./test_cases/Memory_Test.mov" controls width="100%"></video>
+
+
+
+https://github.com/user-attachments/assets/cca84ec7-e245-4eae-9deb-797cfc4906a7
+
+
