@@ -54,26 +54,30 @@ The notebook output includes a sample response and a recorded generation time of
 
 ## Test Cases
 
-### General Conversation
+### 1. General Conversation
 https://github.com/user-attachments/assets/0600edd5-8411-4551-9cc8-17a5a60f8e96
 
-### Coding Knowledge
-https://github.com/user-attachments/assets/3c9c3514-ec04-48cb-9e72-8732c2c43efc
-
-### Knowledge and Explanation
-https://github.com/user-attachments/assets/88d72753-58df-4e7d-be5a-7049a8b3531c
-
-### Challenging Questions
-https://github.com/user-attachments/assets/adf8485d-9886-489a-98db-9104b0f533c2
-
-### 1. Creative Thinking
-https://github.com/user-attachments/assets/a76852f7-1014-4372-89cc-1dc52718e4ea
-
-### 2. Instruction Following
-https://github.com/user-attachments/assets/e40cf19f-d322-4e62-917d-4739939f650d
-
-### 3. Logical Reasoning
+### 2. Logical Reasoning
 https://github.com/user-attachments/assets/cca84ec7-e245-4eae-9deb-797cfc4906a7
 
-### 4. Memory Test
+### 3. Memory Test
 https://github.com/user-attachments/assets/5e2bf5ff-87ba-45d3-ae8c-afe155d6a572
+
+### 4. Coding Knowledge
+https://github.com/user-attachments/assets/3c9c3514-ec04-48cb-9e72-8732c2c43efc
+
+### 5. Creative Thinking
+https://github.com/user-attachments/assets/a76852f7-1014-4372-89cc-1dc52718e4ea
+
+### 6. Knowledge and Explanation
+https://github.com/user-attachments/assets/88d72753-58df-4e7d-be5a-7049a8b3531c
+
+### 7. Instruction Following
+https://github.com/user-attachments/assets/e40cf19f-d322-4e62-917d-4739939f650d
+
+### 8. Challenging Questions
+https://github.com/user-attachments/assets/adf8485d-9886-489a-98db-9104b0f533c2
+
+
+
+
